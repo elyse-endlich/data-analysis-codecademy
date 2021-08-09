@@ -1,0 +1,9 @@
+{
+    "files.autoSave": "afterDelay",
+    "editor.wordWrap": "on",
+    "editor.scrollBeyondLastLine": false,
+    "editor.smoothScrolling": true,
+    "editor.tabCompletion": "on",
+    "editor.inlineSuggest.enabled": true,
+    "window.autoDetectColorScheme": true
+}
